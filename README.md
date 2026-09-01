@@ -12,7 +12,7 @@
 | [👥 دليل أرقامي](https://github.com/adelss12/contacts)      | إدارة جهات الاتصال والبحث فيها                  |
 | [📄 تقليص PDF](https://github.com/adelss12/taqlis-pdf)      | أداة مبسطة لتقليل حجم ملفات PDF                 |
 | [🔳 صانع QR](https://github.com/adelss12/qr)                | إنشاء رموز QR وحفظها وطباعتها                   |
-
+| [🖱️ قائمة الزر الأيمن في Windows 11](https://github.com/adelss12/Restore-old-Right-click-Context-menu-in-Windows-11) | التبديل بسهولة بين القائمة الكلاسيكية والحديثة |
 ---
 
 > أتعلم باستمرار، وأحوّل الأفكار اليومية إلى أدوات مفيدة.

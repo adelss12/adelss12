@@ -1,16 +1,20 @@
-## Hi there 👋
+<div dir="rtl">
 
-<!--
-**adelss12/adelss12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# أهلًا، أنا عادل الغامدي 👋
 
-Here are some ideas to get you started:
+أهتم بتطوير أدوات عربية بسيطة وعملية تساعد في تنظيم الأعمال والمهام اليومية.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## أبرز مشاريعي
+
+| المشروع                                                     | نبذة مختصرة                                     |
+| ----------------------------------------------------------- | ----------------------------------------------- |
+| [💳 مصروفاتي](https://github.com/adelss12/masrofati-iphone) | تسجيل المصروفات واستخراج بيانات العمليات بسهولة |
+| [👥 دليل أرقامي](https://github.com/adelss12/contacts)      | إدارة جهات الاتصال والبحث فيها                  |
+| [📄 تقليص PDF](https://github.com/adelss12/taqlis-pdf)      | أداة مبسطة لتقليل حجم ملفات PDF                 |
+| [🔳 صانع QR](https://github.com/adelss12/qr)                | إنشاء رموز QR وحفظها وطباعتها                   |
+
+---
+
+> أتعلم باستمرار، وأحوّل الأفكار اليومية إلى أدوات مفيدة.
+
+</div>

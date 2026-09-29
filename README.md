@@ -16,6 +16,7 @@
 | 🗂️ [منظم الملفات الذكي](https://github.com/adelss12/smart-file-organizer) | فحص وتنظيم الملفات وكشف المكررات، مع نسخة Windows جاهزة |
 | [🗺️تحويل مواقع Google إلى خرائط Apple](https://github.com/adelss12/google_to_apple_maps) | تحويل من GoogleMaps إلى خرائط Apple |
 | [🏦صندوق العائلة الذكي](https://github.com/adelss12/family-fund) | نظام إدارة صندوق العائلة المالي الذكي لمتابعة الاشتراكات والمصروفات|
+| [💾نسخ وحفظ تعريفات Windows](https://github.com/adelss12/DriverBackup) | داة لنسخ واستعادة تعريفات Windows، بواجهة رسومية|
 ---
 
 > أتعلم باستمرار، وأحوّل الأفكار اليومية إلى أدوات مفيدة.

@@ -36,6 +36,7 @@
 
 | البرنامج | نبذة |
 | --- | --- |
+| [🔄 SyncFile](https://github.com/adelss12/SyncFile/releases/latest) | مزامنة المجلدات بين أجهزة بلا إنترنت عن طريق الفلاش |
 | [🗂️ منظّم الملفات الذكي](https://github.com/adelss12/smart-file-organizer) | فحص الملفات وتنظيمها وكشف المكررات |
 | [💾 نسخ التعريفات](https://github.com/adelss12/DriverBackup) | نسخ تعريفات Windows واستعادتها بواجهة رسومية |
 | [🖱️ قائمة الزر الأيمن](https://github.com/adelss12/Restore-old-Right-click-Context-menu-in-Windows-11) | التبديل بين القائمة الكلاسيكية والحديثة في Windows 11 |

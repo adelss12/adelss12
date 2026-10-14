@@ -19,6 +19,7 @@
 | البرنامج | نبذة | الكود |
 | --- | --- | --- |
 | [🔳 صانع QR](https://adelss12.github.io/qr/) | رموز QR للواي فاي وجهات الاتصال وواتساب، وقارئ بالكاميرا | [qr](https://github.com/adelss12/qr) |
+| [🔎 استخراج النص](https://adelss12.github.io/ocr/) | قراءة النص العربي والإنجليزي من PDF المصوّر بالماسحة والصور | [ocr](https://github.com/adelss12/adelss12.github.io/tree/main/ocr) |
 | [📄 تقليص PDF](https://adelss12.github.io/taqlis-pdf/) | تقليص الحجم ودمج الملفات وتنظيم الصفحات | [taqlis-pdf](https://github.com/adelss12/taqlis-pdf) |
 | [🗺️ تحويل الخرائط](https://adelss12.github.io/google_to_apple_maps/) | تحويل روابط Google Maps إلى خرائط Apple | [google_to_apple_maps](https://github.com/adelss12/google_to_apple_maps) |
 | [👥 دليل أرقامي](https://adelss12.github.io/contacts/) | إدارة جهات الاتصال مع دعم VCF وCSV | [contacts](https://github.com/adelss12/contacts) |

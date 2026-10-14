@@ -4,19 +4,40 @@
 
 أهتم بتطوير أدوات عربية بسيطة وعملية تساعد في تنظيم الأعمال والمهام اليومية.
 
-## أبرز مشاريعي
+### [▶️ افتح صفحة جميع البرامج](https://adelss12.github.io/)
 
-| المشروع                                                     | نبذة مختصرة                                     |
-| ----------------------------------------------------------- | ----------------------------------------------- |
-| [💳 مصروفاتي](https://github.com/adelss12/masrofati-iphone) | تسجيل المصروفات واستخراج بيانات العمليات بسهولة |
-| [👥 دليل أرقامي](https://github.com/adelss12/contacts)      | إدارة جهات الاتصال والبحث فيها                  |
-| [📄 تقليص PDF](https://github.com/adelss12/taqlis-pdf)      | أداة مبسطة لتقليل حجم ملفات PDF                 |
-| [🔳 صانع QR](https://github.com/adelss12/qr)                | إنشاء رموز QR وحفظها وطباعتها                   |
-| [🖱️ قائمة الزر الأيمن في Windows 11](https://github.com/adelss12/Restore-old-Right-click-Context-menu-in-Windows-11) | التبديل بسهولة بين القائمة الكلاسيكية والحديثة |
-| 🗂️ [منظم الملفات الذكي](https://github.com/adelss12/smart-file-organizer) | فحص وتنظيم الملفات وكشف المكررات، مع نسخة Windows جاهزة |
-| [🗺️تحويل مواقع Google إلى خرائط Apple](https://github.com/adelss12/google_to_apple_maps) | تحويل من GoogleMaps إلى خرائط Apple |
-| [🏦صندوق العائلة الذكي](https://github.com/adelss12/family-fund) | نظام إدارة صندوق العائلة المالي الذكي لمتابعة الاشتراكات والمصروفات|
-| [💾نسخ وحفظ تعريفات Windows](https://github.com/adelss12/DriverBackup) | داة لنسخ واستعادة تعريفات Windows، بواجهة رسومية|
+## 💰 المال والعائلة
+
+| البرنامج | نبذة | الكود |
+| --- | --- | --- |
+| [💳 مصروفاتي](https://adelss12.github.io/masrofati-iphone/) | تسجيل المصروفات واستخراج بيانات العمليات من رسائل البنك | [masrofati-iphone](https://github.com/adelss12/masrofati-iphone) |
+| [🏦 صندوق العائلة](https://adelss12.github.io/family-fund/) | متابعة اشتراكات العائلة والإيرادات والمصروفات | [family-fund](https://github.com/adelss12/family-fund) |
+| [📅 التقويم العائلي](https://adelss12.github.io/fc/) | مواعيد العائلة بالهجري والميلادي مع المشاركة | [fc](https://github.com/adelss12/fc) |
+
+## 🧰 أدوات يومية
+
+| البرنامج | نبذة | الكود |
+| --- | --- | --- |
+| [🔳 صانع QR](https://adelss12.github.io/qr/) | رموز QR للواي فاي وجهات الاتصال وواتساب، وقارئ بالكاميرا | [qr](https://github.com/adelss12/qr) |
+| [📄 تقليص PDF](https://adelss12.github.io/taqlis-pdf/) | تقليص الحجم ودمج الملفات وتنظيم الصفحات | [taqlis-pdf](https://github.com/adelss12/taqlis-pdf) |
+| [🗺️ تحويل الخرائط](https://adelss12.github.io/google_to_apple_maps/) | تحويل روابط Google Maps إلى خرائط Apple | [google_to_apple_maps](https://github.com/adelss12/google_to_apple_maps) |
+| [👥 دليل أرقامي](https://adelss12.github.io/contacts/) | إدارة جهات الاتصال مع دعم VCF وCSV | [contacts](https://github.com/adelss12/contacts) |
+
+## 🌤️ معلومات وصحة
+
+| البرنامج | نبذة | الكود |
+| --- | --- | --- |
+| [🌦️ طقسي](https://adelss12.github.io/mywather/) | الطقس والمواسم والإنذارات الرسمية | [mywather](https://github.com/adelss12/mywather) |
+| [💊 افهم دواءك](https://adelss12.github.io/dawaak/) | صوّر عبوة الدواء واعرف استخدامه وتحذيراته | [dawaak](https://github.com/adelss12/dawaak) |
+
+## 🖥️ برامج ويندوز
+
+| البرنامج | نبذة |
+| --- | --- |
+| [🗂️ منظّم الملفات الذكي](https://github.com/adelss12/smart-file-organizer) | فحص الملفات وتنظيمها وكشف المكررات |
+| [💾 نسخ التعريفات](https://github.com/adelss12/DriverBackup) | نسخ تعريفات Windows واستعادتها بواجهة رسومية |
+| [🖱️ قائمة الزر الأيمن](https://github.com/adelss12/Restore-old-Right-click-Context-menu-in-Windows-11) | التبديل بين القائمة الكلاسيكية والحديثة في Windows 11 |
+
 ---
 
 > أتعلم باستمرار، وأحوّل الأفكار اليومية إلى أدوات مفيدة.

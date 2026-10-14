@@ -11,7 +11,6 @@
 | البرنامج | نبذة | الكود |
 | --- | --- | --- |
 | [💳 مصروفاتي](https://adelss12.github.io/masrofati-iphone/) | تسجيل المصروفات واستخراج بيانات العمليات من رسائل البنك | [masrofati-iphone](https://github.com/adelss12/masrofati-iphone) |
-| [🏦 صندوق العائلة](https://adelss12.github.io/family-fund/) | متابعة اشتراكات العائلة والإيرادات والمصروفات | [family-fund](https://github.com/adelss12/family-fund) |
 | [📅 التقويم العائلي](https://adelss12.github.io/fc/) | مواعيد العائلة بالهجري والميلادي مع المشاركة | [fc](https://github.com/adelss12/fc) |
 
 ## 🧰 أدوات يومية

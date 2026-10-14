@@ -22,6 +22,8 @@
 | [📄 تقليص PDF](https://adelss12.github.io/taqlis-pdf/) | تقليص الحجم ودمج الملفات وتنظيم الصفحات | [taqlis-pdf](https://github.com/adelss12/taqlis-pdf) |
 | [🗺️ تحويل الخرائط](https://adelss12.github.io/google_to_apple_maps/) | تحويل روابط Google Maps إلى خرائط Apple | [google_to_apple_maps](https://github.com/adelss12/google_to_apple_maps) |
 | [👥 دليل أرقامي](https://adelss12.github.io/contacts/) | إدارة جهات الاتصال مع دعم VCF وCSV | [contacts](https://github.com/adelss12/contacts) |
+| [⏰ منبّه](https://adelss12.github.io/monabbih/) | تنبيه بقرب انتهاء الاشتراكات والوثائق الرسمية | [monabbih](https://github.com/adelss12/monabbih) |
+| [⚡ اختصارات](https://adelss12.github.io/shortcuts/) | اختصارات مفيدة للآيفون جاهزة للتثبيت | [shortcuts](https://github.com/adelss12/shortcuts) |
 
 ## 🌤️ معلومات وصحة
 
